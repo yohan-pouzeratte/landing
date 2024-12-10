@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 16px;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', serif;
+	font-weight: bold;
+}
+
+h2 {
+	color: darkred;
+	font-style: italic;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	font-weight: bold;
+}
